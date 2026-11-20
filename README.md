@@ -208,8 +208,8 @@ MIT License - Feel free to use for science fair projects!
 
 - Issues: GitHub Issues
 - Questions: Discussions tab
-- Email: your-email@example.com
+- Email: markemad485@gmail.com
 
 ---
 
-**Built for science fair participants who want to improve their presentation skills with AI feedback.**
+**Built for science fair participants who want to improve their presentation skills.**
